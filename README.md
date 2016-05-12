@@ -15,7 +15,9 @@ Of course its impossible, to look through +5 million pictures by hand. Here, luc
 # Usage
 
 To detect gay shit: 		./antigay-scandir.sh /mnt/1/pix/women/ -nogay
+
 To detect CP: 			./antigay-scandir.sh /mnt/1/pix/women/ -nokids
+
 To detect gay shit and CP: 	./antigay-scandir.sh /mnt/1/pix/women/
 
 Antigay-2016 will generate a HTML report, and you can weed out the pictures in your browser. Execute the shell commands from the textbox to remove the images.
