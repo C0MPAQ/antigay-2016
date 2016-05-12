@@ -25,6 +25,6 @@ Antigay-2016 will generate a HTML report, and you can weed out the pictures in y
 
 # Drawbacks
 
-Well, the false positive rate is about 80% - so basically Antigay-2016 sucks like fuck and it is hardly usable. 
+Well ... the false positive rate is about 80%, and it takes like 5 seconds to scan a dozen pictures ... so basically Antigay-2016 sucks and it is hardly usable. 
 
 Though, maybe in the future, better caffe models can be used. Don't miss: Antigay-2017!
